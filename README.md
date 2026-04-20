@@ -13,13 +13,13 @@ Features:
 GraphQL API for flexible data querying
 Real-time updates using Socket.IO
 User authentication (JWT-based)
-Create and manage resources (e.g., posts/messages/recipes depending on your implementation)
+Create and manage resources 
 Live updates without page refresh
 Modular backend structure
 
 Technologies Used:
 Backend: Node.js, Express.js
-API: GraphQL
+API: GraphQL, REST-API
 Real-time Communication: Socket.IO
-Database: (MongoDB or MySQL — you tell me which you used)
+Database: MongoDB 
 Authentication: JSON Web Tokens (JWT)
